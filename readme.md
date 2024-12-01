@@ -14,4 +14,3 @@ Data set (Crime Data from 2020 to Present: Crime_Data_from_2020_to_Present.csv):
 1. ![link 01](https://www.kaggle.com/datasets/shubhamgupta012/crime-data-from-2020-to-present)
 2. ![link 02](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 3. ![link 03](https://data.lacity.org/api/views/2nrs-mtv8/rows.csv?accessType=DOWNLOAD)
-
