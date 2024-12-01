@@ -8,7 +8,7 @@ Visualizes crime data on an interactive heatmap using `folium` and displays it u
 - Display the heatmap interactively with `Datapane`
 - Option to save the heatmap as an HTML file for offline viewing
 
-![crime_data_location_heat_map](crime_data_location_heat_map.png)
+<img src="crime_data_location_heat_map.png" alt="crime_data_location_heat_map" width="400" height="400">
 
 Data set (Crime Data from 2020 to Present: Crime_Data_from_2020_to_Present.csv):
 1. ![link 01](https://www.kaggle.com/datasets/shubhamgupta012/crime-data-from-2020-to-present)
